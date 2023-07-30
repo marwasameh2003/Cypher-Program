@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1690706717 source:c:\assignments\cyphers\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<map>
+	<cctype>
+	<cmath>
+	<iomanip>
+
+1690706717 source:c:\assignments\cypher-program\cyphers\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<map>
+	<cctype>
+	<cmath>
+	<iomanip>
+
